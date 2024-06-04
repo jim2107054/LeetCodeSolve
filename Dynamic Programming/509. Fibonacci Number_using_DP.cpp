@@ -21,6 +21,6 @@ int main()
 {
     int n;
     cin>>n;
-    cout<<"n'th Fibonacci Number is: "<<solve(n)<<endl;
+    cout<<n<<"'th Fibonacci Number is: "<<solve(n)<<endl;
     return 0;
 }
