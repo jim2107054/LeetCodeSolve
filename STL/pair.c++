@@ -11,4 +11,6 @@ int main(){
     cout<<p2.second.second<<endl;
     cout<<p4.second.first<<endl;
     cout<<p4.second.second.second.first<<endl;
+    cout<<p3.second.first<<endl;
+    cout<<p4.second.second.first<<endl;
 }
